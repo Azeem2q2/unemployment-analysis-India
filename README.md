@@ -1,5 +1,5 @@
 
-# Unemployment Analysis in India 🇮🇳
+# Unemployment Analysis in India
 
 ## Project Overview
 
